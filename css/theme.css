@@ -3189,6 +3189,7 @@ form[action*='list-manage.com'] .small-meta {
   margin: 0;
   position: relative;
   top: 4px;
+  display: none;
 }
 .bar .menu-horizontal {
   position: relative;
@@ -3250,7 +3251,7 @@ form[action*='list-manage.com'] .small-meta {
     display: none;
   }
   .bar--transparent:not(.bar--dark) .logo-light {
-    display: inline-block;
+    display: none;
   }
   .bar--transparent:not(.bar--dark):not(.pos-fixed) .menu-horizontal > li > a,
   .bar--transparent:not(.bar--dark):not(.pos-fixed) .menu-horizontal > li > span {
@@ -3284,7 +3285,7 @@ form[action*='list-manage.com'] .small-meta {
     background: #ffffff;
   }
   .bar.pos-fixed:not([class*='bg-']) .logo-dark {
-    display: inline-block;
+    display: none;
   }
   .bar.pos-fixed:not([class*='bg-']) .logo-light {
     display: none;
@@ -4830,6 +4831,7 @@ section.parallax .row .background-image-holder {
   }
   .bar-4 .logo-dark {
     margin-bottom: 1.85714286em;
+    display: none;
   }
   .bar.bg--dark {
     background: #252525;
@@ -5258,6 +5260,7 @@ section.parallax .row .background-image-holder {
 .nav-sidebar-column .logo {
   max-height: 2.32142857em;
   margin-bottom: 0.92857143em;
+  display: none;
 }
 .nav-sidebar-column .text-block > p {
   margin-bottom: 0.92857143em;
