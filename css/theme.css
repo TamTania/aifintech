@@ -4749,6 +4749,7 @@ section.parallax .row .background-image-holder {
 .bar .logo {
   max-height: 1.85714286em;
   max-width: none;
+  display: none;
 }
 .menu-horizontal > li > a,
 .menu-horizontal > li > .modal-instance > a {
