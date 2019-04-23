@@ -4692,7 +4692,7 @@ section.parallax .row .background-image-holder {
 }
 .elements-title + .tabs-container:not( :nth-last-child(2)),
 .elements-title + section:not( :nth-last-child(2)) {
-  margin-bottom: 9.28571429em;
+  /*margin-bottom: 9.28571429em;*/
 }
 .elements-title + section:not(.imagebg):not([class*='bg-']):not(.unpad) {
   padding-top: 1.85714286em;
@@ -9257,7 +9257,7 @@ footer a.type--fine-print:not(:first-child) {
   margin-left: 1.85714286em;
 }
 footer .logo {
-  max-height: 1.67142857em;
+  max-height: 2.67em;
 }
 footer ul:not(.list-inline):not(.slides) > li {
   line-height: 2.32142857em !important;
