@@ -411,7 +411,7 @@ section.height-auto .pos-vertical-center {
 /**! 05. Images **/
 img {
   max-width: 100%;
-  margin-bottom: 1.85714286em;
+  /*margin-bottom: 1.85714286em;*/
 }
 /*p+img, img:last-child{
 	margin-bottom: 0;
@@ -4692,7 +4692,7 @@ section.parallax .row .background-image-holder {
 }
 .elements-title + .tabs-container:not( :nth-last-child(2)),
 .elements-title + section:not( :nth-last-child(2)) {
-  
+  /*margin-bottom: 9.28571429em;*/
 }
 .elements-title + section:not(.imagebg):not([class*='bg-']):not(.unpad) {
   padding-top: 1.85714286em;
